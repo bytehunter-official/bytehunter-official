@@ -1,6 +1,7 @@
-# Hi 👋, I'm ByteHunter_Official
+# Hi 👋, I'm ByteHunter
 
-### A modest quasi-full-stack developer（一个谦虚的准全栈开发者）
+### A modest quasi-full-stack developer
+### I'm looking for internship opportunities and hope to be taken in by HR/Mentor.
 
 - 🔭 I am currently engaged in **AI development and training**. Additionally, for the **ACG content** I am passionate about, I have **redesigned my blog website** by referencing their **UI and visual design**.
 
