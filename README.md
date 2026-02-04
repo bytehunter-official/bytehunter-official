@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bytehunter.official@gmail.com**
 
-- 👨‍💻 The index website of My Blog: **[https://ww1.html-5.me](https://ww1.html-5.me)**
+- 👨‍💻 The index website of My Blog: **[https://index.html-5.me](https://index.html-5.me)**
 
 - 📝 My Blog:  **[https://bytehunter.html-5.me](https://bytehunter.html-5.me)**
 
