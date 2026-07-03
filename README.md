@@ -1,11 +1,11 @@
 # Hi 👋, I'm ByteHunter
 
-### A modest quasi-full-stack developer
+### A modest quasi-full-stack developer(It may still be far from that level?), aspiring to become a full-stack developer.
 ### I'm looking for internship opportunities and hope to be taken in by HR/Mentor.
 
-- 🔭 I am currently engaged in **AI development and training**. Additionally, for the **ACG content** I am passionate about, I have **redesigned my blog website** by referencing their **UI and visual design**.
+- 🔭 I am currently engaged in **Vibe Coding**. Additionally, for the **ACG content** I am passionate about, I have **redesigned my blog website** by referencing their **UI and visual design**.
 
-- 🌱 I'm currently learning **Python, C, MATLAB**……
+- 🌱 I'm currently learning **Python, C, MATLAB**…… (However, perhaps what I am most proficient in is vibe coding hhh)
 
 - 👯 I'm looking to collaborate on **interesting and cutting-edge projects**
 
