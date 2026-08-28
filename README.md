@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **bytehunter.official@gmail.com**
 
-- 👨‍💻 The index website of My Blog: **[https://index.html-5.me](https://index.html-5.me)**
+- 👨‍💻 The index website of My Blog: **[https://bytehunter.cn](https://bytehunter.cn)**
 
-- 📝 My Blog:  **[https://bytehunter.html-5.me](https://bytehunter.html-5.me)**
+- 📝 My Blog:  **[https://blog.bytehunter.cn](https://blog.bytehunter.cn)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
